@@ -21,7 +21,7 @@
  Where middleinitial = null;
  
 -- find distinct product prices
- Select Distinct(price) From product;
+ Select Distinct(price) From products;
  
 -- find all employees whose first name starts with the letter ‘j’
  Select * From employees 
